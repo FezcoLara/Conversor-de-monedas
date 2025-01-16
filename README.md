@@ -19,4 +19,4 @@ Dependiendo de la opción elegida se realizará la conversión final.
 - API: https://www.exchangerate-api.com/
 
 ## Autor
-**Proyecto realizado por Victor Lara**
+**Proyecto desarrolladodo por Victor Lara**
